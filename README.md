@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project builds a hospital-grade patient analytics workbook modelled on the reporting frameworks used by NHS Trusts in England. It tracks 40 patient admissions across six clinical departments, measuring operational KPIs including bed occupancy, length of stay (LOS), 30-day readmission rates, and patient outcomes. Department metadata is sourced from a separate reference workbook via cross-workbook VLOOKUP — mirroring how NHS analysts pull from ERIC, SIMS, or trust-level reference datasets.
+This project builds a hospital-grade patient analytics workbook modelled on the reporting frameworks used by NHS Trusts in England. It tracks 40 patient admissions across six clinical departments, measuring operational KPIs including bed occupancy, length of stay (LOS), 30-day readmission rates, and patient outcomes. Department metadata is sourced from a separate reference workbook via cross-workbook VLOOKUP - mirroring how NHS analysts pull from ERIC, SIMS, or trust-level reference datasets.
 
 ---
 
