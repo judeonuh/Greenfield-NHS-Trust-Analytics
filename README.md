@@ -147,6 +147,10 @@ All assumptions are stored on the **Assumptions** sheet in blue text (editable i
 ---
 
 ## Analysis and Findings
+---
+
+![dept_analysis](img/dept_analysis.png)  
+![age_risk_profile](img/age_risk_profile.png)  
 
 ### Readmission
 - **Oncology (ONCO)** has the highest 30-day readmission rate — well above the NHS 5% benchmark — driven by the complexity of cancer treatment and the nature of the patient cohort. This department is flagged red in the Dept_Analysis conditional formatting.
@@ -168,6 +172,8 @@ All assumptions are stored on the **Assumptions** sheet in blue text (editable i
 ### Monthly Trend
 - January had the highest admission volume — consistent with winter pressures.
 - April showed a modest reduction in admissions, with an improving discharge rate.
+
+![monthly_trend](img/monthly_admissions.png)  
 
 ---
 
