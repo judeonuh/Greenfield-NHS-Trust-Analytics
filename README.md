@@ -142,7 +142,6 @@ All assumptions are stored on the **Assumptions** sheet in blue text (editable i
 | Conditional Formatting | Traffic-light CF on readmission rates and readmission binary flag |
 | ColorScaleRule | 3-colour gradient on age-band readmission rates |
 | Bar Chart | Monthly admission trend with category axis |
-| openpyxl (Python) | Workbook programmatic construction for this portfolio |
 
 ---
 
